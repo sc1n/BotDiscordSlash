@@ -1,5 +1,5 @@
-Uploading Enregistrement de l’écran 2024-12-13 à 23.09.33.mp4…
 
+https://github.com/sc1n/assets/1483c168-1e6f-4563-9850-7c2bd7c179e9
 
 # Bot Discord avec Commandes Slash
 
